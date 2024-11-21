@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sftp"
+    id="42f33de8-f646-41e9-9017-92844cc77563">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_40f86dda.xml#40f86dda"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fd84ab5d-1581-4239-9591-ee5853bf103f.xml#fd84ab5d-1581-4239-9591-ee5853bf103f"/>
+</archimate:FlowRelationship>

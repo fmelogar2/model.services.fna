@@ -1,0 +1,4 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="{url}/request/get-status/{code}"
+    id="id-5e2459eb57af4ef3b6c4a8fc8eb0fdb2"/>

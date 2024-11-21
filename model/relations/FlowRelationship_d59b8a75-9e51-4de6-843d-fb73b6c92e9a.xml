@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TCP 1433/MSSQL"
+    id="d59b8a75-9e51-4de6-843d-fb73b6c92e9a">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_ac986f20.xml#ac986f20"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_e51729e5-4660-4349-b3c1-b9ffe914844a.xml#e51729e5-4660-4349-b3c1-b9ffe914844a"/>
+</archimate:FlowRelationship>

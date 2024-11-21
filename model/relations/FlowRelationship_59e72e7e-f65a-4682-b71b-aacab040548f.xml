@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ldap"
+    id="59e72e7e-f65a-4682-b71b-aacab040548f">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_2f8eb7b0-b370-43d7-8feb-19f80f396179.xml#2f8eb7b0-b370-43d7-8feb-19f80f396179"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_f675d4dc.xml#f675d4dc"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="jdbc"
+    id="7f454a08-3368-4a28-9a77-9e2627836039">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_cb710865-c5dc-45b0-a924-2afb29597569.xml#cb710865-c5dc-45b0-a924-2afb29597569"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_3f6fe4bb-b984-4b00-9c05-8eeb45a47b68.xml#3f6fe4bb-b984-4b00-9c05-8eeb45a47b68"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ldap:443"
+    id="id-23999f984b934486ba6245ad4e708a61">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_885c5fba.xml#885c5fba"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_f675d4dc.xml#f675d4dc"/>
+</archimate:AssociationRelationship>
